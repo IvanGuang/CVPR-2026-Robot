@@ -58,13 +58,13 @@
 ## 3. 人手到机器手迁移
 
 *   **[MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer](https://arxiv.org/abs/2511.18370)**
-    *   [GitHub链接](https://github.com/czh-98/MimiCAT)*
+    *   [GitHub链接](https://github.com/czh-98/MimiCAT)
     *   简介：3D姿态转移旨在将源网格的姿态样式转移到目标角色，同时保持目标的几何体和源的姿态特征。本研究构建了一个涵盖数百个不同字符的百万尺度姿势数据集，并提出了MimiCAT，一种设计用于无类别三维姿态转移的级联Transformer模型。MimiCAT不再依赖严格的一对应映射，而是利用语义关键点标签学习一种新颖的软对应，实现字符间灵活的多对多匹配。
       
 ## 4. Others
 
 *   **[Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](https://arxiv.org/html/2603.23227v1)**
-    *   [GitHub链接](https://github.com/zql-kk/E3Flow)*
+    *   [GitHub链接](https://github.com/zql-kk/E3Flow)
     *   简介：基于Diffusion Policy的机器人抓取框架，主要聚焦于等变抓取情景下的计算效率问题。
       
 *   **[FrankenMotion: Part-level Human Motion Generation and Composition](https://arxiv.org/abs/2601.10909)**
