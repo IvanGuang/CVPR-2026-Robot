@@ -4,21 +4,21 @@
 
 ## 1. 视频指导机器人抓取
 
-*   **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/pdf/2512.23703)**
+*   **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/abs/2512.23703)**
     *   [GitHub链接](https://github.com/FlagOpen/Robo-Dopamine)
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：提出了用于RL训练的多巴胺奖励（Dopamine-Reward），这是一种新颖的奖励建模方法，用于从多视角输入中学习通用的、步数感知的过程奖励模型。
       
 *   **[MM-ACT: Learn from Multimodal Parallel Generation to Act](https://arxiv.org/abs/2512.00975)**
     *   [GitHub链接](https://github.com/HHYHRHY/MM-ACT?tab=readme-ov-file)
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：MM-ACT是一个统一的视觉-语言-行动（VLA）模型，在共享token空间中集成文本、图像和动作，并从三种模态中生成兼具语义理解、环境预测和环境互动等能力的策略。
       
 *   **[ORV: 4D Occupancy-centric Robot Video Generation](https://arxiv.org/abs/2506.03079)**
     *   [GitHub链接](https://github.com/OrangeSodahub/ORV)
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：ORV是一种以占用为中心的机器人视频生成框架，将动作先验与占用衍生的视觉先验结合起来，进一步探索使用生成视频训练机器人的可能性。
 
 *   **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](https://arxiv.org/abs/2512.19402)**
     *   [GitHub链接](https://github.com/Real2Edit2Real/Real2Edit2Real)
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：本文提出了Real2Edit2Real框架，通过3D控制界面连接3D编辑性与2D视觉数据，生成用于机器人训练的合成演示。
 
 *   **[DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](https://arxiv.org/abs/2512.13380)** 
     *   [GitHub链接](https://github.com/BeingBeyond/DemoFunGrasp)
@@ -38,7 +38,7 @@
 
 *   **[Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](https://arxiv.org/abs/2511.22555)**
     *   [GitHub链接](https://github.com/Mwuqiu/BeyondSuccess)
-    *   简介：VLA模型生成的策略质量较为参差，我们将这种变异归因于人类演示的质量参差不齐，即在这些演示中决定行动应如何执行的隐含条件仅被部分满足。为应对这一挑战，我们引入了带有明确执行质量评估标准的LIBERO-Elegant基准测试，在不修改或重新训练基础VLA策略的情况下提升策略质量。
+    *   简介：VLA模型生成的策略质量较为参差，我们将这种变异归因于人类演示的质量参差不齐，即在这些演示中决定行动应如何执行的隐含条件仅被部分满足。为应对这一挑战，我们引入了带有明确执行质量评估标准的LIBERO-Elegant基准测试，即时评估并干涉机器人运动，实现在不修改或重新训练基础VLA策略的情况下提升策略质量。
 
 
 *   **[Clay-to-Stone: Phase-wise 3D Gaussian Splatting for Monocular Articulated Hand-Object Manipulation Modeling（尚未公开论文）]
