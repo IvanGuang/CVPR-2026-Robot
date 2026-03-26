@@ -15,7 +15,11 @@
 *   **[ORV: 4D Occupancy-centric Robot Video Generation](https://arxiv.org/abs/2506.03079)**
     *   项目代码: [GitHub链接](https://github.com/OrangeSodahub/ORV)
     *   简介：一句话描述这篇论文做了什么。
-      
+
+*   **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface]((https://arxiv.org/abs/2512.19402))**
+    *   项目代码: [GitHub链接](https://github.com/Real2Edit2Real/Real2Edit2Real)
+    *   简介：一句话描述这篇论文做了什么。
+   
 ## 2. 双手抓取
 
 *   **[论文标题](论文链接)**
