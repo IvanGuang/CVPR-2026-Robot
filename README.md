@@ -1,6 +1,6 @@
 # CVPR 2026 Robot Manipulation Paper Collection
 
-个人整理的 CVPR 2026 机器人相关论文及代码仓库。
+个人整理的 CVPR 2026 机器人操作相关论文及代码仓库。
 
 ## 1. 视频指导机器人抓取
 
@@ -35,7 +35,12 @@
 *   **[RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation](https://arxiv.org/abs/2603.14880)**
     *   [GitHub链接](https://github.com/lif314/RealVLG-R1?tab=readme-ov-file#realvlg-r1-a-large-scale-real-world-visual-language-grounding-benchmark-for-robotic-perception-and-manipulation)
     *   简介：RealVLG是一个旨在弥合自然语言与机器人抓取之间鸿沟的统一框架，该框架整合了RealVLG-11B数据集和RealVLG-R1模型。RealVLG-11B 数据集提供多粒度注释，包括边界框、分割遮罩、抓握姿态、接触点以及人工验证的细粒度语言描述。基于该数据集，RealVLG-R1 在预训练的大规模视觉语言模型上采用强化微调，在自然语言指令下统一预测边界框、分割掩码、抓取姿势和接触点。
-      
+
+*   **[Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](https://arxiv.org/abs/2511.22555)**
+    *   [GitHub链接](https://github.com/Mwuqiu/BeyondSuccess)
+    *   简介：VLA模型生成的策略质量较为参差，我们将这种变异归因于人类演示的质量参差不齐，即在这些演示中决定行动应如何执行的隐含条件仅被部分满足。为应对这一挑战，我们引入了带有明确执行质量评估标准的LIBERO-Elegant基准测试，在不修改或重新训练基础VLA策略的情况下提升策略质量。
+
+
 *   **[Clay-to-Stone: Phase-wise 3D Gaussian Splatting for Monocular Articulated Hand-Object Manipulation Modeling（尚未公开论文）]
     *   [GitHub链接](https://github.com/ru1ven/ArGS)
     *   简介：用于单眼关节手-物体操作建模的相位三维高斯喷溅。
@@ -58,7 +63,7 @@
       
 ## 4. Others
 
-*   **[Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation]((https://arxiv.org/html/2603.23227v1))**
+*   **[Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](https://arxiv.org/html/2603.23227v1)**
     *   [GitHub链接]((https://github.com/zql-kk/E3Flow))*
     *   简介：基于Diffusion Policy的机器人抓取框架，主要聚焦于等变抓取情景下的计算效率问题。
       
