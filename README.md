@@ -20,22 +20,23 @@
     *   [GitHub链接](https://github.com/Real2Edit2Real/Real2Edit2Real)
     *   简介：一句话描述这篇论文做了什么。
 
- *   **[DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](https://arxiv.org/abs/2512.13380)**
+*   **[DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](https://arxiv.org/abs/2512.13380)** 
     *   [GitHub链接](https://github.com/BeingBeyond/DemoFunGrasp)
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：本研究提出了用于通用灵巧功能抓握的DemoFunGrasp，旨在解决功能抓取面临诸多挑战。我们将功能性抓握条件分解为抓取风格和可供性两个互补组成部分，并将其集成到一个能够学习掌握任何具有函数抓握条件的对象的强化学习框架中。为应对多任务优化挑战，我们利用单一抓取演示，将强化学习问题重新表述为一步到位的演示编辑，显著提升样本效率和性能。除了强大的模拟到现实能力外，通过引入视觉语言模型（VLM）进行规划，我们的策略实现了自主指令跟随抓取执行。
      
 ## 2. 双手抓取
 
 *   **[论文标题](论文链接)**
     *   [GitHub链接](https://github.com/zzz/zzz)
-
+    *   简介：
+      
 ## 3. 人手到机器手迁移
 
 *   **[FrankenMotion: Part-level Human Motion Generation and Composition](https://arxiv.org/abs/2601.10909)**
     *   [GitHub链接](https://github.com/Coral79/FrankenMotion-Code?tab=readme-ov-filez)
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：
       
 *   **[论文标题](论文链接)**
     *   [GitHub链接](https://github.com/zzz/zzz)*
-    *   简介：一句话描述这篇论文做了什么。
+    *   简介：
 
