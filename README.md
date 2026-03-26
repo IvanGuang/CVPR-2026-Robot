@@ -29,7 +29,7 @@
     *   简介：有视觉先验的人机交互框架。以视觉语言模型（VLM）为基础从二维图像中提取丰富的视觉先验信息，利用先验信息提升扩散模型所生成的交互姿势质量。
 
 *   **[Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](https://arxiv.org/abs/2602.20200)**
-    *   [GitHub链接]((https://github.com/CybertronAgent/OptimusVLA.github.io))
+    *   [GitHub链接](https://github.com/CybertronAgent/OptimusVLA.github.io)
     *   简介：OptimusVLA是一种双记忆层级视觉-语言-行动（VLA）框架，通过引入全局先验内存（GPM），从语义相似轨迹中检索的任务级先验取代高斯噪声，从而缩短生成路径并减少函数评估（NFE）。通过局部一致性内存（LCM），动态建模执行的动作序列以推断任务进展，并添加学习的一致性约束，保证时间一致性和轨迹的平滑性。
 
 *   **[RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation](https://arxiv.org/abs/2603.14880)**
