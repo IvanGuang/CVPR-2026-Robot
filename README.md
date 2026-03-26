@@ -2,7 +2,7 @@
 
 个人整理的 CVPR 2026 机器人操作相关论文及代码仓库。
 
-## 1. 视频指导机器人抓取
+## 1. 视频/图像指导机器人抓取
 
 *   **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/abs/2512.23703)**
     *   [GitHub链接](https://github.com/FlagOpen/Robo-Dopamine)
