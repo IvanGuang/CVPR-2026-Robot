@@ -4,7 +4,7 @@
 
 ## 1. 视频指导机器人抓取
 
-*   **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](arXiv:2512.23703)**
+*   **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation]([arXiv:2512.23703](https://arxiv.org/pdf/2512.23703))**
     *   Code: [GitHub链接](https://github.com/FlagOpen/Robo-Dopamine)
     *   简介：一句话描述这篇论文做了什么。
       
