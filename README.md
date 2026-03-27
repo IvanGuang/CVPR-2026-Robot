@@ -48,7 +48,7 @@
 ## 2. 双手抓取
 
 *   **[UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://arxiv.org/abs/2603.22264)**
-    *   [GitHub链接](https://github.com/ru1ven/ArGS)
+    *   [GitHub链接](https://github.com/unidex-ai/UniDex)
     *   简介：UniDex是由UniDex-Dataset、UniDex-VLA 和 UniDex-Cap 共同构成的一套机器人操作基础套件，将大规模机器人中心数据集与统一的视觉-语言-行动（VLA）策略及实用的人类数据采集方案相结合，实现通用灵活的手部控制。
 
 *   **[论文标题](论文链接)**
